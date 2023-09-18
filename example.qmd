@@ -1,0 +1,39 @@
+---
+title: "Reveal.js Text Resizer Example"
+format:
+  revealjs: default
+revealjs-plugins:
+  - revealjs-text-resizer
+---
+
+## How to use Reveal.js Text Resizer
+
+* Press <kbd>Alt/Opt</kbd> + <kbd>+</kbd> to increase text size
+
+* Press <kbd>Alt/Opt</kbd> + <kbd>-</kbd> to decrease text size
+
+* Press <kbd>Alt/Opt</kbd> + <kbd>0</kbd> to reset the text size
+
+# In the morning
+
+## Getting up
+
+- Turn off alarm
+- Get out of bed
+
+## Breakfast
+
+- Eat eggs
+- Drink coffee
+
+# In the evening
+
+## Dinner
+
+- Eat spaghetti
+- Drink wine
+
+## Going to sleep
+
+- Get in bed
+- Count sheep
