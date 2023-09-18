@@ -1,7 +1,10 @@
 ---
 title: "Reveal.js Text Resizer Example"
+
 format:
-  revealjs: default
+  revealjs:
+    self-contained: true
+
 revealjs-plugins:
   - revealjs-text-resizer
 ---

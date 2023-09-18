@@ -6,7 +6,7 @@ This is a small extension that makes it easy to adjust the size of the text on Q
 
 This extension is for anyone who has presented with Quarto slides and tried to press <kbd>Ctrl/Cmd</kbd> + <kbd>+/-</kbd> to adjust the font size to find the text stubbornly stays exactly the same size.
 
-[Try it out](https://pkg.garrickadenbuie.com/revealjs-text-resizer/example.html)
+[Try it out](https://pkg.garrickadenbuie.com/revealjs-text-resizer/)
 
 ## Installing
 
